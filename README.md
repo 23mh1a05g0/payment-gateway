@@ -64,7 +64,7 @@ _Note: Amount is in paise (so 50000 = ₹500)._
 
 Grab the `id` from the response (it starts with `order_...`).
 Open your browser to:
-`http://localhost:3001/checkout?order_id=YOUR_ORDER_ID_HERE`
+`http://localhost:3005/checkout?order_id=YOUR_ORDER_ID_HERE`
 
 Try paying!
 
