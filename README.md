@@ -37,7 +37,7 @@ Here's a quick walkthrough to save you time guessing how things work.
 
 ### 1. Log in as a Merchant
 
-Go to [http://localhost:3000](http://localhost:3000).
+Go to [http://localhost:3005](http://localhost:3005).
 
 - **Email**: `test@example.com`
 - **Password**: literally anything (it's a test account)
