@@ -21,7 +21,7 @@ I've set this up to be super easy to run. You just need **Docker** installed.
 1.  **Clone this repo**:
 
     ```bash
-    git clone "https://github.com/23mh1a05g0/payment-gateway"
+    git clone "https://github.com/23mh1a05g0/payment-gateway.git"
     cd payment-gateway
     ```
 
